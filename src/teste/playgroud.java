@@ -1,5 +1,6 @@
 package teste;
 
+import algoritimos.busca.Buscadores;
 import algoritimos.ordenacao.InsertionSort;
 
 /**
@@ -8,11 +9,8 @@ import algoritimos.ordenacao.InsertionSort;
 public class playgroud {
 	public static void main(String[] args) {
 		Integer[] numeros = {5, 3, 2, 7};
-		String[] nomes = {"casa", "amor", "vida", "bola"};
+		Integer valor = 2;
 
-		InsertionSort.sortGenerico(nomes, (o1, o2) -> ((String ) o1).compareTo((String) o2));
-		for(String nome : nomes){
-			System.out.println(nome);
-		}
+		System.out.println(Buscadores.buscadorSimplesNumerico(numeros, valor));
 	}
 }
