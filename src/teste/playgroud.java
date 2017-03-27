@@ -8,9 +8,12 @@ import algoritimos.ordenacao.InsertionSort;
  */
 public class playgroud {
 	public static void main(String[] args) {
-		Integer[] numeros = {5, 3, 2, 7};
-		Integer valor = 2;
-
-		System.out.println(Buscadores.buscadorSimplesNumerico(numeros, valor));
+		String[] nomes = {"Carro", "Bola", "Amor", "Vida"};
+		String nome = "Carro";
+		Integer inicio = 0;
+		Integer fim = nomes.length - 1;
+		boolean isOrdem = InsertionSort.sortGenerico(nomes, (o, t1) -> ((String) o).compareTo(((String) t1)));
+		Integer resultado = Buscadores.buscadorBinariogenericoRecursivo(nomes, isOrdem, inicio, fim, nome, (o, t1) -> ((String) o).compareTo(((String) t1)));
+		System.out.println(resultado);
 	}
 }

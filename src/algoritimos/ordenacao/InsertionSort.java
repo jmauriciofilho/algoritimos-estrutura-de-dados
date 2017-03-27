@@ -7,9 +7,9 @@ import java.util.Comparator;
  */
 public class InsertionSort {
 
-	public static void sortNumerica(int[] numeros){
+	public static boolean sortNumerica(Integer[] numeros){
 		for(int j = 1; j < numeros.length; j++){
-			int temp = numeros[j];
+			Integer temp = numeros[j];
 			int i = j-1;
 			while (i >= 0 && temp < numeros[i]){
 				numeros[i+1] = numeros[i];
@@ -17,9 +17,10 @@ public class InsertionSort {
 			}
 			numeros[i+1] = temp;
 		}
+		return true;
 	}
 
-	public static void sortGenerico(Object[] objects, Comparator<Object> comparator){
+	public static boolean sortGenerico(Object[] objects, Comparator<Object> comparator){
 		for(int j = 1; j < objects.length; j++){
 			Object temp = objects[j];
 			int i = j-1;
@@ -29,5 +30,6 @@ public class InsertionSort {
 			}
 			objects[i+1] = temp;
 		}
+		return true;
 	}
 }
