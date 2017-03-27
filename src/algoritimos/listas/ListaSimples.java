@@ -9,6 +9,18 @@ public class ListaSimples<E> implements Lista<E> {
 	private int index = 0;
 
 	public void add(E e){
-		
+		verificarEspaço();
+		elementos[this.index] = e;
+		this.index++;
+	}
+
+	public int size(){
+		return this.index;
+	}
+
+	private void verificarEspaço(){
+		if (this.index == elementos.length){
+			throw new StackOverflowError("Não há mais espaço na lista");
+		}
 	}
 }
