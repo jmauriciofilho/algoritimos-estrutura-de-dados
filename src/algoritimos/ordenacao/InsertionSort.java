@@ -7,6 +7,9 @@ import java.util.Comparator;
  */
 public class InsertionSort {
 
+	/**
+	 * Complexidade O(n²)
+	 */
 	public static boolean sortNumerica(Integer[] numeros){
 		for(int j = 1; j < numeros.length; j++){
 			Integer temp = numeros[j];

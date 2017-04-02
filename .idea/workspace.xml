@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2342c1f-749f-4ac2-a00a-a064349bf2eb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ListaDeExercicios/Questao1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ListaDeExercicios/Questao5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ListaDeExercicios/Questao7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ListaDeExercicios/Questao9.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ListaDeExercicios/Questão2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ListaDeExercicios2/Questao1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgoritimosEstruturaDeDados/algoritimos/busca/Buscadores.class" afterPath="$PROJECT_DIR$/out/production/AlgoritimosEstruturaDeDados/algoritimos/busca/Buscadores.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgoritimosEstruturaDeDados/algoritimos/ordenacao/InsertionSort.class" afterPath="$PROJECT_DIR$/out/production/AlgoritimosEstruturaDeDados/algoritimos/ordenacao/InsertionSort.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java" afterPath="$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java" afterPath="$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java" afterPath="$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,61 +28,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ListaSimples.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ListaSimples.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="46" column="38" lean-forward="true" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+            <state relative-caret-position="431">
+              <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
               <folding>
-                <element signature="e#435#454#1" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#717#783#1" expanded="true" />
                 <element signature="e#865#895#1" expanded="true" />
-                <element signature="e#917#929#0" expanded="true" />
-                <element signature="e#967#1033#1" expanded="true" />
-                <element signature="e#1098#1113#1" expanded="true" />
-                <element signature="e#1093#1180#0" expanded="true" />
-                <element signature="e#1093#1180#0" expanded="true" />
-                <element signature="e#1093#1180#0" expanded="true" />
-                <element signature="e#1275#1276#0" expanded="true" />
-                <element signature="e#1299#1300#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Buscadores.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java">
+      <file leaf-file-name="Questao1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ListaDeExercicios2/Questao1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="20" column="82" lean-forward="false" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
-              <folding>
-                <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
-                <element signature="e#241#251#1" expanded="true" />
-                <element signature="e#236#333#0" expanded="true" />
-                <element signature="e#236#333#0" expanded="true" />
-                <element signature="e#236#333#0" expanded="true" />
-                <element signature="method#buscadorSimplesGenerico#0;class#Buscadores#0" expanded="false" />
-                <element signature="e#469#479#1" expanded="true" />
-                <element signature="e#464#568#0" expanded="true" />
-                <element signature="e#464#568#0" expanded="true" />
-                <element signature="e#464#568#0" expanded="true" />
-                <element signature="e#515#540#0" expanded="true" />
-                <element signature="e#515#540#0" expanded="true" />
-                <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
-                <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
-                <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lista.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/Lista.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+            <state relative-caret-position="90">
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -101,11 +71,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/algoritimos/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/teste/playgroud.java" />
-        <option value="$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java" />
         <option value="$PROJECT_DIR$/src/algoritimos/listas/Lista.java" />
         <option value="$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java" />
+        <option value="$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java" />
+        <option value="$PROJECT_DIR$/src/ListaDeExercicios/Questao1.java" />
+        <option value="$PROJECT_DIR$/src/ListaDeExercicios/Questão2.java" />
+        <option value="$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/ListaDeExercicios/Questao7.java" />
+        <option value="$PROJECT_DIR$/src/ListaDeExercicios/Questao9.java" />
       </list>
     </option>
   </component>
@@ -140,9 +114,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -168,8 +141,22 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="teste" />
+              <option name="myItemId" value="AlgoritimosEstruturaDeDados" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoritimosEstruturaDeDados" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ListaDeExercicios2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -188,59 +175,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="algoritimos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ordenacao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoritimosEstruturaDeDados" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoritimosEstruturaDeDados" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algoritimos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="listas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoritimosEstruturaDeDados" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoritimosEstruturaDeDados" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algoritimos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="busca" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,7 +192,7 @@
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.playgroud">
+  <component name="RunManager" selected="Application.Questao7">
     <configuration default="false" name="playgroud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -261,6 +201,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="teste.playgroud" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgoritimosEstruturaDeDados" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Questao1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ListaDeExercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ListaDeExercicios.Questao1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgoritimosEstruturaDeDados" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Questao7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ListaDeExercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ListaDeExercicios.Questao7" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -676,12 +656,16 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="1">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.playgroud" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Questao1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Questao7" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.playgroud" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Questao7" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Questao1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.playgroud" />
       </list>
     </recent_temporary>
   </component>
@@ -704,45 +688,47 @@
       <workItem from="1490792425242" duration="39000" />
       <workItem from="1491082145692" duration="620000" />
       <workItem from="1491093600851" duration="5275000" />
+      <workItem from="1491142161426" duration="3766000" />
+      <workItem from="1491149658267" duration="9813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26502000" />
+    <option name="totallyTimeSpent" value="40081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="24" width="1307" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Fluid" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24942617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Fluid" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24942617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -755,7 +741,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -764,298 +750,49 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ListaDeExercicios/Questao1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <element signature="method#somaMatriz#0;class#Questao1#0" expanded="false" />
+            <element signature="method#main#0;class#Questao1#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeExercicios/Questão2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#multiplicacaoMatriz#0;class#Questão2#0" expanded="false" />
+            <element signature="e#353#363#1" expanded="true" />
+            <element signature="e#348#450#0" expanded="true" />
+            <element signature="e#348#450#0" expanded="true" />
+            <element signature="e#348#450#0" expanded="true" />
+            <element signature="e#390#422#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#435#454#1" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#717#783#1" expanded="true" />
             <element signature="e#865#895#1" expanded="true" />
-            <element signature="e#917#929#0" expanded="true" />
-            <element signature="e#967#1033#1" expanded="true" />
-            <element signature="e#1098#1113#1" expanded="true" />
-            <element signature="e#1093#1180#0" expanded="true" />
-            <element signature="e#1093#1180#0" expanded="true" />
-            <element signature="e#1093#1180#0" expanded="true" />
-            <element signature="e#1275#1276#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/teste/playgroud.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#211#262#1" expanded="true" />
-            <element signature="e#265#287#1" expanded="true" />
-            <element signature="e#290#309#1" expanded="true" />
-            <element signature="e#312#343#1" expanded="true" />
-            <element signature="e#346#448#1" expanded="true" />
-            <element signature="e#409#421#0" expanded="true" />
-            <element signature="e#409#421#0" expanded="true" />
-            <element signature="e#432#445#0" expanded="true" />
-            <element signature="e#432#445#0" expanded="true" />
-            <element signature="e#451#600#1" expanded="true" />
-            <element signature="e#561#573#0" expanded="true" />
-            <element signature="e#561#573#0" expanded="true" />
-            <element signature="e#584#597#0" expanded="true" />
-            <element signature="e#584#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding>
-            <element signature="e#198#208#1" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#238#264#1" expanded="false" />
-            <element signature="e#268#280#1" expanded="false" />
-            <element signature="e#545#570#1" expanded="false" />
-            <element signature="e#574#586#1" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#241#251#1" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
-            <element signature="method#buscadorSimplesGenerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#469#479#1" expanded="true" />
-            <element signature="e#464#568#0" expanded="true" />
-            <element signature="e#464#568#0" expanded="true" />
-            <element signature="e#464#568#0" expanded="true" />
-            <element signature="e#515#540#0" expanded="true" />
-            <element signature="e#515#540#0" expanded="true" />
-            <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/teste/playgroud.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#211#262#1" expanded="true" />
-            <element signature="e#265#287#1" expanded="true" />
-            <element signature="e#290#309#1" expanded="true" />
-            <element signature="e#312#343#1" expanded="true" />
-            <element signature="e#346#448#1" expanded="true" />
-            <element signature="e#409#421#0" expanded="true" />
-            <element signature="e#409#421#0" expanded="true" />
-            <element signature="e#432#445#0" expanded="true" />
-            <element signature="e#432#445#0" expanded="true" />
-            <element signature="e#451#600#1" expanded="true" />
-            <element signature="e#561#573#0" expanded="true" />
-            <element signature="e#561#573#0" expanded="true" />
-            <element signature="e#584#597#0" expanded="true" />
-            <element signature="e#584#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding>
-            <element signature="e#198#208#1" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#238#264#1" expanded="false" />
-            <element signature="e#268#280#1" expanded="false" />
-            <element signature="e#545#570#1" expanded="false" />
-            <element signature="e#574#586#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#241#251#1" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
-            <element signature="method#buscadorSimplesGenerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#469#479#1" expanded="true" />
-            <element signature="e#464#568#0" expanded="true" />
-            <element signature="e#464#568#0" expanded="true" />
-            <element signature="e#464#568#0" expanded="true" />
-            <element signature="e#515#540#0" expanded="true" />
-            <element signature="e#515#540#0" expanded="true" />
-            <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/teste/playgroud.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#211#262#1" expanded="true" />
-            <element signature="e#265#287#1" expanded="true" />
-            <element signature="e#290#309#1" expanded="true" />
-            <element signature="e#312#343#1" expanded="true" />
-            <element signature="e#346#448#1" expanded="true" />
-            <element signature="e#409#421#0" expanded="true" />
-            <element signature="e#409#421#0" expanded="true" />
-            <element signature="e#432#445#0" expanded="true" />
-            <element signature="e#432#445#0" expanded="true" />
-            <element signature="e#451#600#1" expanded="true" />
-            <element signature="e#561#573#0" expanded="true" />
-            <element signature="e#561#573#0" expanded="true" />
-            <element signature="e#584#597#0" expanded="true" />
-            <element signature="e#584#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#198#208#1" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#238#264#1" expanded="false" />
-            <element signature="e#268#280#1" expanded="false" />
-            <element signature="e#545#570#1" expanded="false" />
-            <element signature="e#574#586#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/teste/playgroud.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#211#262#1" expanded="true" />
-            <element signature="e#265#287#1" expanded="true" />
-            <element signature="e#290#309#1" expanded="true" />
-            <element signature="e#312#343#1" expanded="true" />
-            <element signature="e#346#448#1" expanded="true" />
-            <element signature="e#409#421#0" expanded="true" />
-            <element signature="e#409#421#0" expanded="true" />
-            <element signature="e#432#445#0" expanded="true" />
-            <element signature="e#432#445#0" expanded="true" />
-            <element signature="e#451#600#1" expanded="true" />
-            <element signature="e#561#573#0" expanded="true" />
-            <element signature="e#561#573#0" expanded="true" />
-            <element signature="e#584#597#0" expanded="true" />
-            <element signature="e#584#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#198#208#1" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#238#264#1" expanded="false" />
-            <element signature="e#268#280#1" expanded="false" />
-            <element signature="e#545#570#1" expanded="false" />
-            <element signature="e#574#586#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          <folding>
-            <element signature="e#198#208#1" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#194#393#0" expanded="false" />
-            <element signature="e#238#264#1" expanded="false" />
-            <element signature="e#268#280#1" expanded="false" />
-            <element signature="e#545#570#1" expanded="false" />
-            <element signature="e#574#586#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/teste/playgroud.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#211#262#1" expanded="true" />
-            <element signature="e#265#287#1" expanded="true" />
-            <element signature="e#290#309#1" expanded="true" />
-            <element signature="e#312#343#1" expanded="true" />
-            <element signature="e#346#448#1" expanded="true" />
-            <element signature="e#409#421#0" expanded="true" />
-            <element signature="e#409#421#0" expanded="true" />
-            <element signature="e#432#445#0" expanded="true" />
-            <element signature="e#432#445#0" expanded="true" />
-            <element signature="e#451#600#1" expanded="true" />
-            <element signature="e#561#573#0" expanded="true" />
-            <element signature="e#561#573#0" expanded="true" />
-            <element signature="e#584#597#0" expanded="true" />
-            <element signature="e#584#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="360">
           <caret line="20" column="82" lean-forward="false" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
           <folding>
             <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#241#251#1" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
             <element signature="method#buscadorSimplesGenerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#469#479#1" expanded="true" />
-            <element signature="e#464#568#0" expanded="true" />
-            <element signature="e#464#568#0" expanded="true" />
-            <element signature="e#464#568#0" expanded="true" />
-            <element signature="e#515#540#0" expanded="true" />
-            <element signature="e#515#540#0" expanded="true" />
             <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
             <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
             <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
@@ -1065,31 +802,352 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/Lista.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
+        <state relative-caret-position="846">
           <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="46" column="38" lean-forward="true" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#435#454#1" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#717#783#1" expanded="true" />
             <element signature="e#865#895#1" expanded="true" />
-            <element signature="e#917#929#0" expanded="true" />
-            <element signature="e#967#1033#1" expanded="true" />
-            <element signature="e#1098#1113#1" expanded="true" />
-            <element signature="e#1093#1180#0" expanded="true" />
-            <element signature="e#1093#1180#0" expanded="true" />
-            <element signature="e#1093#1180#0" expanded="true" />
-            <element signature="e#1275#1276#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teste/playgroud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#211#262#1" expanded="false" />
+            <element signature="e#265#287#1" expanded="false" />
+            <element signature="e#290#309#1" expanded="false" />
+            <element signature="e#312#343#1" expanded="false" />
+            <element signature="e#346#448#1" expanded="false" />
+            <element signature="e#409#421#0" expanded="false" />
+            <element signature="e#409#421#0" expanded="false" />
+            <element signature="e#432#445#0" expanded="false" />
+            <element signature="e#432#445#0" expanded="false" />
+            <element signature="e#451#600#1" expanded="false" />
+            <element signature="e#561#573#0" expanded="false" />
+            <element signature="e#561#573#0" expanded="false" />
+            <element signature="e#584#597#0" expanded="false" />
+            <element signature="e#584#597#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="method#sortNumerica#0;class#InsertionSort#0" expanded="false" />
+            <element signature="method#sortGenerico#0;class#InsertionSort#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorSimplesGenerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teste/playgroud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#211#262#1" expanded="false" />
+            <element signature="e#265#287#1" expanded="false" />
+            <element signature="e#290#309#1" expanded="false" />
+            <element signature="e#312#343#1" expanded="false" />
+            <element signature="e#346#448#1" expanded="false" />
+            <element signature="e#409#421#0" expanded="false" />
+            <element signature="e#409#421#0" expanded="false" />
+            <element signature="e#432#445#0" expanded="false" />
+            <element signature="e#432#445#0" expanded="false" />
+            <element signature="e#451#600#1" expanded="false" />
+            <element signature="e#561#573#0" expanded="false" />
+            <element signature="e#561#573#0" expanded="false" />
+            <element signature="e#584#597#0" expanded="false" />
+            <element signature="e#584#597#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="method#sortNumerica#0;class#InsertionSort#0" expanded="false" />
+            <element signature="method#sortGenerico#0;class#InsertionSort#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorSimplesGenerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teste/playgroud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#211#262#1" expanded="false" />
+            <element signature="e#265#287#1" expanded="false" />
+            <element signature="e#290#309#1" expanded="false" />
+            <element signature="e#312#343#1" expanded="false" />
+            <element signature="e#346#448#1" expanded="false" />
+            <element signature="e#409#421#0" expanded="false" />
+            <element signature="e#409#421#0" expanded="false" />
+            <element signature="e#432#445#0" expanded="false" />
+            <element signature="e#432#445#0" expanded="false" />
+            <element signature="e#451#600#1" expanded="false" />
+            <element signature="e#561#573#0" expanded="false" />
+            <element signature="e#561#573#0" expanded="false" />
+            <element signature="e#584#597#0" expanded="false" />
+            <element signature="e#584#597#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#sortNumerica#0;class#InsertionSort#0" expanded="false" />
+            <element signature="method#sortGenerico#0;class#InsertionSort#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teste/playgroud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#211#262#1" expanded="false" />
+            <element signature="e#265#287#1" expanded="false" />
+            <element signature="e#290#309#1" expanded="false" />
+            <element signature="e#312#343#1" expanded="false" />
+            <element signature="e#346#448#1" expanded="false" />
+            <element signature="e#409#421#0" expanded="false" />
+            <element signature="e#409#421#0" expanded="false" />
+            <element signature="e#432#445#0" expanded="false" />
+            <element signature="e#432#445#0" expanded="false" />
+            <element signature="e#451#600#1" expanded="false" />
+            <element signature="e#561#573#0" expanded="false" />
+            <element signature="e#561#573#0" expanded="false" />
+            <element signature="e#584#597#0" expanded="false" />
+            <element signature="e#584#597#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#sortNumerica#0;class#InsertionSort#0" expanded="false" />
+            <element signature="method#sortGenerico#0;class#InsertionSort#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teste/playgroud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#211#262#1" expanded="false" />
+            <element signature="e#265#287#1" expanded="false" />
+            <element signature="e#290#309#1" expanded="false" />
+            <element signature="e#312#343#1" expanded="false" />
+            <element signature="e#346#448#1" expanded="false" />
+            <element signature="e#409#421#0" expanded="false" />
+            <element signature="e#409#421#0" expanded="false" />
+            <element signature="e#432#445#0" expanded="false" />
+            <element signature="e#432#445#0" expanded="false" />
+            <element signature="e#451#600#1" expanded="false" />
+            <element signature="e#561#573#0" expanded="false" />
+            <element signature="e#561#573#0" expanded="false" />
+            <element signature="e#584#597#0" expanded="false" />
+            <element signature="e#584#597#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="47" column="7" lean-forward="false" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="method#sortNumerica#0;class#InsertionSort#0" expanded="false" />
+            <element signature="method#sortGenerico#0;class#InsertionSort#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeExercicios/Questao1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding>
+            <element signature="method#somaMatriz#0;class#Questao1#0" expanded="false" />
+            <element signature="method#main#0;class#Questao1#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeExercicios/Questão2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="method#multiplicacaoMatriz#0;class#Questão2#0" expanded="false" />
+            <element signature="e#353#363#1" expanded="true" />
+            <element signature="e#348#450#0" expanded="true" />
+            <element signature="e#348#450#0" expanded="true" />
+            <element signature="e#348#450#0" expanded="true" />
+            <element signature="e#390#422#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeExercicios/Questao5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeExercicios/Questao7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#221#277#1" expanded="true" />
+            <element signature="e#253#276#0" expanded="true" />
+            <element signature="e#266#274#0" expanded="true" />
+            <element signature="e#285#295#1" expanded="true" />
+            <element signature="e#280#427#0" expanded="true" />
+            <element signature="e#280#427#0" expanded="true" />
+            <element signature="e#280#427#0" expanded="true" />
+            <element signature="e#325#335#1" expanded="true" />
+            <element signature="e#320#423#0" expanded="true" />
+            <element signature="e#320#423#0" expanded="true" />
+            <element signature="e#320#423#0" expanded="true" />
+            <element signature="e#365#382#0" expanded="true" />
+            <element signature="e#365#382#0" expanded="true" />
+            <element signature="e#390#411#0" expanded="true" />
+            <element signature="e#390#411#0" expanded="true" />
+            <element signature="e#498#538#1" expanded="true" />
+            <element signature="e#541#564#1" expanded="true" />
+            <element signature="e#568#610#1" expanded="true" />
+            <element signature="e#618#628#1" expanded="true" />
+            <element signature="e#613#706#0" expanded="true" />
+            <element signature="e#613#706#0" expanded="true" />
+            <element signature="e#613#706#0" expanded="true" />
+            <element signature="e#682#700#0" expanded="true" />
+            <element signature="e#682#700#0" expanded="true" />
+            <element signature="e#715#725#1" expanded="true" />
+            <element signature="e#710#855#0" expanded="true" />
+            <element signature="e#710#855#0" expanded="true" />
+            <element signature="e#710#855#0" expanded="true" />
+            <element signature="e#755#765#1" expanded="true" />
+            <element signature="e#750#851#0" expanded="true" />
+            <element signature="e#750#851#0" expanded="true" />
+            <element signature="e#750#851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+          <folding>
+            <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorSimplesGenerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeExercicios/Questao9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#206#216#1" expanded="true" />
+            <element signature="e#201#340#0" expanded="true" />
+            <element signature="e#201#340#0" expanded="true" />
+            <element signature="e#201#340#0" expanded="true" />
+            <element signature="e#245#261#0" expanded="true" />
+            <element signature="e#245#261#0" expanded="true" />
+            <element signature="e#245#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+          <folding>
+            <element signature="e#865#895#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeExercicios2/Questao1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>

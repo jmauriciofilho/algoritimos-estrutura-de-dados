@@ -7,6 +7,9 @@ import java.util.Comparator;
  */
 public class Buscadores {
 
+	/**
+	 *Complexidade O(n)
+	 */
 	public static Integer buscadorSimplesNumerico(Integer[] numeros, Integer valor){
 		if (valor != null){
 			for (int i = 0; i < numeros.length; i++){
@@ -30,6 +33,9 @@ public class Buscadores {
 		return null;
 	}
 
+	/**
+	 *Complexidade O(log(n))
+	 */
 	public static Integer buscadorBinarioNumerico(Integer[] numeros, boolean emOrdem, Integer valor){
 		if (valor != null){
 			if (emOrdem){
