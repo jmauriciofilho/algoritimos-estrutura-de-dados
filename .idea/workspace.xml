@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2342c1f-749f-4ac2-a00a-a064349bf2eb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java" afterPath="$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java" afterPath="$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,7 +19,68 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ListaSimples.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="46" column="38" lean-forward="true" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+              <folding>
+                <element signature="e#435#454#1" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#717#783#1" expanded="true" />
+                <element signature="e#865#895#1" expanded="true" />
+                <element signature="e#917#929#0" expanded="true" />
+                <element signature="e#967#1033#1" expanded="true" />
+                <element signature="e#1098#1113#1" expanded="true" />
+                <element signature="e#1093#1180#0" expanded="true" />
+                <element signature="e#1093#1180#0" expanded="true" />
+                <element signature="e#1093#1180#0" expanded="true" />
+                <element signature="e#1275#1276#0" expanded="true" />
+                <element signature="e#1299#1300#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Buscadores.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="20" column="82" lean-forward="false" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
+              <folding>
+                <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
+                <element signature="e#241#251#1" expanded="true" />
+                <element signature="e#236#333#0" expanded="true" />
+                <element signature="e#236#333#0" expanded="true" />
+                <element signature="e#236#333#0" expanded="true" />
+                <element signature="method#buscadorSimplesGenerico#0;class#Buscadores#0" expanded="false" />
+                <element signature="e#469#479#1" expanded="true" />
+                <element signature="e#464#568#0" expanded="true" />
+                <element signature="e#464#568#0" expanded="true" />
+                <element signature="e#464#568#0" expanded="true" />
+                <element signature="e#515#540#0" expanded="true" />
+                <element signature="e#515#540#0" expanded="true" />
+                <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
+                <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
+                <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lista.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/Lista.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,8 +102,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/algoritimos/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/algoritimos/ordenacao/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java" />
         <option value="$PROJECT_DIR$/src/teste/playgroud.java" />
+        <option value="$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java" />
         <option value="$PROJECT_DIR$/src/algoritimos/listas/Lista.java" />
         <option value="$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java" />
       </list>
@@ -77,6 +140,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -175,9 +241,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -636,46 +699,50 @@
       <workItem from="1490103498767" duration="1302000" />
       <workItem from="1490105276139" duration="5801000" />
       <workItem from="1490184633077" duration="614000" />
-      <workItem from="1490622523180" duration="11180000" />
+      <workItem from="1490622523180" duration="11253000" />
+      <workItem from="1490726027333" duration="28000" />
+      <workItem from="1490792425242" duration="39000" />
+      <workItem from="1491082145692" duration="620000" />
+      <workItem from="1491093600851" duration="5275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20467000" />
+    <option name="totallyTimeSpent" value="26502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="24" width="1307" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Fluid" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24942617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Fluid" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24942617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -697,6 +764,28 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#435#454#1" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#717#783#1" expanded="true" />
+            <element signature="e#865#895#1" expanded="true" />
+            <element signature="e#917#929#0" expanded="true" />
+            <element signature="e#967#1033#1" expanded="true" />
+            <element signature="e#1098#1113#1" expanded="true" />
+            <element signature="e#1093#1180#0" expanded="true" />
+            <element signature="e#1093#1180#0" expanded="true" />
+            <element signature="e#1093#1180#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1299#1300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/teste/playgroud.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -726,14 +815,14 @@
         <state relative-caret-position="504">
           <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding>
-            <element signature="e#198#208#1" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#238#264#1" expanded="true" />
-            <element signature="e#268#280#1" expanded="true" />
-            <element signature="e#545#570#1" expanded="true" />
-            <element signature="e#574#586#1" expanded="true" />
+            <element signature="e#198#208#1" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#238#264#1" expanded="false" />
+            <element signature="e#268#280#1" expanded="false" />
+            <element signature="e#545#570#1" expanded="false" />
+            <element signature="e#574#586#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -744,24 +833,20 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#217#230#0" expanded="true" />
             <element signature="e#241#251#1" expanded="true" />
             <element signature="e#236#333#0" expanded="true" />
             <element signature="e#236#333#0" expanded="true" />
             <element signature="e#236#333#0" expanded="true" />
+            <element signature="method#buscadorSimplesGenerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="e#469#479#1" expanded="true" />
+            <element signature="e#464#568#0" expanded="true" />
+            <element signature="e#464#568#0" expanded="true" />
+            <element signature="e#464#568#0" expanded="true" />
+            <element signature="e#515#540#0" expanded="true" />
+            <element signature="e#515#540#0" expanded="true" />
             <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#462#475#0" expanded="true" />
-            <element signature="e#499#518#1" expanded="true" />
-            <element signature="e#523#556#1" expanded="true" />
-            <element signature="e#561#596#1" expanded="true" />
             <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#1019#1033#0" expanded="true" />
-            <element signature="e#1057#1076#1" expanded="true" />
-            <element signature="e#1081#1114#1" expanded="true" />
-            <element signature="e#1119#1154#1" expanded="true" />
             <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#1687#1701#0" expanded="true" />
-            <element signature="e#1725#1760#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -795,14 +880,14 @@
         <state relative-caret-position="504">
           <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding>
-            <element signature="e#198#208#1" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#238#264#1" expanded="true" />
-            <element signature="e#268#280#1" expanded="true" />
-            <element signature="e#545#570#1" expanded="true" />
-            <element signature="e#574#586#1" expanded="true" />
+            <element signature="e#198#208#1" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#238#264#1" expanded="false" />
+            <element signature="e#268#280#1" expanded="false" />
+            <element signature="e#545#570#1" expanded="false" />
+            <element signature="e#574#586#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -813,24 +898,20 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#217#230#0" expanded="true" />
             <element signature="e#241#251#1" expanded="true" />
             <element signature="e#236#333#0" expanded="true" />
             <element signature="e#236#333#0" expanded="true" />
             <element signature="e#236#333#0" expanded="true" />
+            <element signature="method#buscadorSimplesGenerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="e#469#479#1" expanded="true" />
+            <element signature="e#464#568#0" expanded="true" />
+            <element signature="e#464#568#0" expanded="true" />
+            <element signature="e#464#568#0" expanded="true" />
+            <element signature="e#515#540#0" expanded="true" />
+            <element signature="e#515#540#0" expanded="true" />
             <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#462#475#0" expanded="true" />
-            <element signature="e#499#518#1" expanded="true" />
-            <element signature="e#523#556#1" expanded="true" />
-            <element signature="e#561#596#1" expanded="true" />
             <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#1019#1033#0" expanded="true" />
-            <element signature="e#1057#1076#1" expanded="true" />
-            <element signature="e#1081#1114#1" expanded="true" />
-            <element signature="e#1119#1154#1" expanded="true" />
             <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#1687#1701#0" expanded="true" />
-            <element signature="e#1725#1760#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -864,14 +945,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#198#208#1" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#238#264#1" expanded="true" />
-            <element signature="e#268#280#1" expanded="true" />
-            <element signature="e#545#570#1" expanded="true" />
-            <element signature="e#574#586#1" expanded="true" />
+            <element signature="e#198#208#1" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#238#264#1" expanded="false" />
+            <element signature="e#268#280#1" expanded="false" />
+            <element signature="e#545#570#1" expanded="false" />
+            <element signature="e#574#586#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -905,14 +986,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#198#208#1" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#238#264#1" expanded="true" />
-            <element signature="e#268#280#1" expanded="true" />
-            <element signature="e#545#570#1" expanded="true" />
-            <element signature="e#574#586#1" expanded="true" />
+            <element signature="e#198#208#1" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#238#264#1" expanded="false" />
+            <element signature="e#268#280#1" expanded="false" />
+            <element signature="e#545#570#1" expanded="false" />
+            <element signature="e#574#586#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -922,61 +1003,14 @@
         <state relative-caret-position="396">
           <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
           <folding>
-            <element signature="e#198#208#1" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#194#393#0" expanded="true" />
-            <element signature="e#238#264#1" expanded="true" />
-            <element signature="e#268#280#1" expanded="true" />
-            <element signature="e#545#570#1" expanded="true" />
-            <element signature="e#574#586#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="66" column="168" lean-forward="false" selection-start-line="66" selection-start-column="168" selection-end-line="66" selection-end-column="168" />
-          <folding>
-            <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#217#230#0" expanded="true" />
-            <element signature="e#241#251#1" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
-            <element signature="e#236#333#0" expanded="true" />
-            <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#462#475#0" expanded="true" />
-            <element signature="e#499#518#1" expanded="true" />
-            <element signature="e#523#556#1" expanded="true" />
-            <element signature="e#561#596#1" expanded="true" />
-            <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#1019#1033#0" expanded="true" />
-            <element signature="e#1057#1076#1" expanded="true" />
-            <element signature="e#1081#1114#1" expanded="true" />
-            <element signature="e#1119#1154#1" expanded="true" />
-            <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
-            <element signature="e#1687#1701#0" expanded="true" />
-            <element signature="e#1725#1760#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/Lista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="56" column="25" lean-forward="false" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding>
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#198#208#1" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#194#393#0" expanded="false" />
+            <element signature="e#238#264#1" expanded="false" />
+            <element signature="e#268#280#1" expanded="false" />
+            <element signature="e#545#570#1" expanded="false" />
+            <element signature="e#574#586#1" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1001,6 +1035,60 @@
             <element signature="e#561#573#0" expanded="true" />
             <element signature="e#584#597#0" expanded="true" />
             <element signature="e#584#597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/busca/Buscadores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="82" lean-forward="false" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
+          <folding>
+            <element signature="method#buscadorSimplesNumerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="e#241#251#1" expanded="true" />
+            <element signature="e#236#333#0" expanded="true" />
+            <element signature="e#236#333#0" expanded="true" />
+            <element signature="e#236#333#0" expanded="true" />
+            <element signature="method#buscadorSimplesGenerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="e#469#479#1" expanded="true" />
+            <element signature="e#464#568#0" expanded="true" />
+            <element signature="e#464#568#0" expanded="true" />
+            <element signature="e#464#568#0" expanded="true" />
+            <element signature="e#515#540#0" expanded="true" />
+            <element signature="e#515#540#0" expanded="true" />
+            <element signature="method#buscadorBinarioNumerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorBinarioGenerico#0;class#Buscadores#0" expanded="false" />
+            <element signature="method#buscadorBinariogenericoRecursivo#0;class#Buscadores#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoritimos/listas/ListaSimples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="38" lean-forward="true" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+          <folding>
+            <element signature="e#435#454#1" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#717#783#1" expanded="true" />
+            <element signature="e#865#895#1" expanded="true" />
+            <element signature="e#917#929#0" expanded="true" />
+            <element signature="e#967#1033#1" expanded="true" />
+            <element signature="e#1098#1113#1" expanded="true" />
+            <element signature="e#1093#1180#0" expanded="true" />
+            <element signature="e#1093#1180#0" expanded="true" />
+            <element signature="e#1093#1180#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1299#1300#0" expanded="true" />
           </folding>
         </state>
       </provider>

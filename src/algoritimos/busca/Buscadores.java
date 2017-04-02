@@ -18,6 +18,18 @@ public class Buscadores {
 		return null;
 	}
 
+	public static Integer buscadorSimplesGenerico(Object[] objects, Object object){
+		if (object != null){
+			for (int i = 0; i < objects.length; i++) {
+				if (object.equals(objects[i])){
+					return i;
+				}
+			}
+		}
+
+		return null;
+	}
+
 	public static Integer buscadorBinarioNumerico(Integer[] numeros, boolean emOrdem, Integer valor){
 		if (valor != null){
 			if (emOrdem){
