@@ -48,9 +48,9 @@ public interface Lista<E> {
 	/**
 	 *
 	 * @param i, numero
-	 * @return se objeto foi removido
+	 * @return objeto removido.
 	 */
-	boolean remove(int i);
+	Object remove(int i);
 
 	/**
 	 *

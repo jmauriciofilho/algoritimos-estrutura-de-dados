@@ -42,10 +42,11 @@ public class ListaSimples<E> implements Lista<E> {
 		return indice != null;
 	}
 
-	public boolean remove(int i){
+	public Object remove(int i){
 		validarIndex(i);
 		Object aRemover = this.get(i);
-		return this.remove((E) aRemover);
+		this.remove((E) aRemover);
+		return aRemover;
 	}
 
 	public boolean remove(E e){
