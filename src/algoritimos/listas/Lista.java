@@ -58,4 +58,10 @@ public interface Lista<E> {
 	 * @return se objeto foi removido
 	 */
 	boolean remove(E e);
+
+	default void validaIndex(int i){
+		if (i < 0 || i >= this.size()){
+			throw new ArrayIndexOutOfBoundsException("Índice fora do intervalo permitido.");
+		}
+	}
 }
